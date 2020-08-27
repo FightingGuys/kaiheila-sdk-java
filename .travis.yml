@@ -1,0 +1,14 @@
+language: java
+sudo: false
+
+jdk:
+  - openjdk8
+
+branches:
+  only:
+    - master
+
+script: "mvn install -Dmaven.javadoc.skip=true -B -V"
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
