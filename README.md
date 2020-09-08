@@ -6,19 +6,19 @@ English | [中文版](README.zh-CN.md)
 ![Apache-2.0](https://camo.githubusercontent.com/8f54547853cfad57acfc8e06e6008cc296cda34d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d417061636865253230322d626c75652e737667)
 
 Kaiheila OpenAPI SDK for Java  
-[Join us "Kaiheila" Channel](https://kaihei.co/O9A5AY)
+[Join our "Kaiheila" Channel](https://kaihei.co/O9A5AY)
 
-- [Install](#Install)
+- [Installation](#Installation)
 - [Usage](#Usage)
-- [Example](#Example)
+- [Examples](#Examples)
 - [Maintainers](#Maintainers)
 - [Contributing](#Contributing)
 - [License](#License)
 
-## Install
-Required Java 1.8+
+## Installation
+Requires Java 1.8+
 
-Maven Dependence
+Maven Dependencies
 ```xml
 <!-- https://mvnrepository.com/artifact/cn.fightingguys.kaiheila/kaiheila-sdk-java -->
 <dependency>
@@ -39,7 +39,7 @@ compile group: 'org.springframework', name: 'spring-context', version: '5.2.8.RE
 3. The following examples can be used for development, have fun.
 4. [Development Wiki](https://github.com/FightingGuys/kaiheila-sdk-java/wiki)
 
-## Example
+## Examples
 #### Beginner
 - [Minimum](#)
 - [Echo](#)
@@ -53,11 +53,11 @@ compile group: 'org.springframework', name: 'spring-context', version: '5.2.8.RE
 
 
 ## Maintainers
-[Contributor](CONTRIBUTING.md#Developer)
+[Contributors](CONTRIBUTING.md#Developer)
 
 ## Contributing
-If you want to make some contribution to us, including issue  
-you can check the description of this file.  
+If you'd like to make contributions or to submit issues to our project,
+please check our descriptions here:
 [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
