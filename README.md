@@ -1,2 +1,3 @@
-# kaiheila-sdk-java
-Kaiheila OpenAPI SDK for Java
+# 开黑啦机器人SDK
+
+**项目开发中，并不能使用！**
